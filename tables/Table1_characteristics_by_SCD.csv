@@ -1,0 +1,47 @@
+﻿"Demographic, Health, and Behavioral Characteristics of Survey Participants Who Did And Did Not Report Subjective Cognitive Decline (SCD), Behavioral Risk Factor Surveillance System Survey, 2023a",,,
+Characteristics,"Without SCD (n=29,641), n (%)b","With SCD (n=6,113), n (%)b",P value c
+Demographics,,,
+Sex,,,<.001
+  Male,"13,089 (47.0)","2,538 (41.1)",
+  Female,"16,552 (53.0)","3,575 (58.9)",
+"Age group, y",,,<.001
+  45-54,"5,386 (25.5)","1,025 (22.2)",
+  55-64,"7,443 (29.2)","1,516 (28.8)",
+  65-74,"9,332 (26.9)","1,710 (25.6)",
+  75+,"7,480 (18.4)","1,862 (23.4)",
+Education,,,<.001
+  High school or less,"8,132 (33.3)","2,116 (42.3)",
+  Attended college,"7,580 (30.8)","1,732 (31.8)",
+  College graduate,"13,847 (35.9)","2,251 (25.9)",
+Annual income below federal poverty level d,"3,093 (13.3)","1,179 (22.7)",<.001
+Marital status,,,<.001
+  Married or living with partner,"17,650 (65.3)","3,123 (57.9)",
+  Previously married,"9,512 (27.1)","2,518 (35.5)",
+  Never married,"2,294 (7.6)",441 (6.6),
+Race/ethnicity,,,0.692
+"  White, non-Hispanic","23,720 (68.8)","4,854 (68.0)",
+"  Black, non-Hispanic","2,800 (13.3)",540 (12.4),
+  Hispanic,"1,345 (11.1)",306 (12.4),
+"  Others, non-Hispanic","1,250 (6.8)",300 (7.2),
+ACE exposure,,,
+ACE score group,,,<.001
+0,"12,679 (41.6)","1,663 (25.7)",
+1,"6,979 (23.6)","1,266 (20.8)",
+2-3,"6,086 (21.4)","1,563 (24.1)",
+4+,"3,897 (13.4)","1,621 (29.5)",
+Health conditions,,,
+Depressive disorder,"3,988 (12.1)","2,328 (38.8)",<.001
+Diabetes,"5,434 (18.3)","1,512 (24.3)",<.001
+Stroke,"1,457 (4.6)",658 (10.2),<.001
+Obesity,"9,184 (34.3)","2,160 (37.9)",0.01
+Hypertension,"15,555 (50.7)","3,668 (59.1)",<.001
+Physical inactivity e,"7,541 (25.2)","2,344 (38.4)",<.001
+Smoking status,,,<.001
+  Current smoker,"2,925 (10.3)",926 (16.2),
+  Former smoker,"9,365 (30.0)","2,287 (36.0)",
+  Never smoked,"17,146 (59.7)","2,864 (47.7)",
+"a Taken from respondents to the Subjective Cognitive Decline module.
+b Values calculated by using appropriate weighting system and by restricting observations to those for which ACEs is not missing.
+c P value calculated by using Wald χ2 test.
+d Annual income below $25,000 for a family of 3.
+e Physical inactivity defined as participant reporting no physical activity within the past 30 days.",,,
